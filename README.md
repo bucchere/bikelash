@@ -5,7 +5,7 @@ This is not a story of who was at fault, though at first it seemed that way.
 
 We all share a critical responsibility when we go out into the world: the duty to keep one another safe. I failed in that responsibility and, as a result, we will never get back the life of Sutchi Hui. Words cannot adequately express how sorry I am for his death and for the loss to his family. I carry that sorrow with me every day.
  
-[Bikelash](http://bikelash.net) is about what happened after the accident—and it’s a story we hear all too often: High-profile cases get tried not in courtrooms, but on TV and the internet. The media fans the flames, the public quickly passes judgement, and elected officials bend the system to secure political wins—at the expense of due process and fair outcomes. 
+[Bikelash](http://bikelash.net) is about what happened after the accident—and it’s a story we hear all too often: High-profile cases get tried not in courtrooms, but on TV and the internet. The media fans the flames, the public quickly passes judgment, and elected officials bend the system to secure political wins—at the expense of due process and fair outcomes. 
 
 The story is based on court transcripts, newspaper and online articles, television broadcasts, and extensive notes and journal entries I made in the months after the accident. I created this companion GitHub project as a collaborative space where everyone is invited to take a closer look at the evidence, make comments, and suggest changes.
 
