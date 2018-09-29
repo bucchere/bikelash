@@ -22,9 +22,13 @@ The public outrage that followed Ang's "light" sentencing gave San Francisco Dis
 
 Two weeks and three days after the news broke over Randy's sentencing, with the anger of how "weak" it was fresh in their minds, people first heard of my accident in the news, igniting a furor of angry, hateful comments directed at me and at cyclists in general.
 
+### The charges
+
 Through a series of leaks and press releases, George Gascón, San Francisco's District Attorney, built a damning strawman case against me in the local media. In response to the public sentiment he curated, he then charged me with felony vehicular manslaughter, the first time in history that this charge had been applied to someone riding a bicycle. 
 
-More to come as the [podcast](http://bikelash.net) continues...
+However, during discovery, I found a traffic light in the prosecutor's own evidence, a video from a bar surveillance camera that captured the accident in its entirety. This traffic light showed that the prosecutors had the case completely backwards.
+
+The story of how I ended up a convicted felon despite this is the subject of [_Bikelash_](http://bikelash.net), a ten-week podcast and blog serial.
 
 ## Objective
 I've created this project to provide a permanent record of the media narrative juxtaposed by the facts of my case, many of which I culled directly from the records of court proceedings. Anyone is welcome to join me and participate in this collaborative forum. My goal here is not to change minds or win hearts. On the contrary, my objective is to show how Trial by Media can run contrary to the facts of a case to produce outcomes in which justice is not served.
@@ -37,21 +41,28 @@ I reserve the right to delete any comments and reject any pull requests that do 
 ## Claims and rebuttals
 The left column shows the major claims of the false narrative created by the DA and promulgated by the TV news, local media and bloggers. The right column shows how verifiable facts—corroborated by the prosecution's own video evidence—proved that all of their public claims were false.
 
+---
+_Note: Before viewing stills from the video, I recommending briefly getting oriented with the [360° camera footage](/etc/360.md)._
+
+---
+
 Claims | Rebuttals
 ---|---
 [Pedestrians always have the right-of-way](/claims/pedestrian_right_of_way.md) | The California Vehicle Code (CVC) defines exactly where and when [pedestrians do and do not have the right-of-way](rebuttals/pedestrian_right_of_way.md)
 [Cyclists rarely follow the rules of the road](/claims/rules_of_the_road.md) | Even if that's true, it doesn't mean that I behaved unlawfully 
-I [ran a red light](/claims/red_light.md) at the intersection of Market & Castro | My [light was yellow](/rebuttals/red_light.md) when I entered the intersection
+I [ran a red light](/claims/red_light.md) at the intersection of Market & Castro | The prosecution's own video footage showed that [my light was yellow](/rebuttals/red_light.md) when I entered the intersection
+I failed to [yield to pedestrians](/claims/yield_to_pedestrians.md) | The rules of the road, designed for everyone's safety, required the pedestrians to [yield the right-of-way to me](/rebuttals/yield_to_pedestrians.md)
+The pedestrians had a WALK symbol, according to multiple eyewitnesses | Video footage clearly showed that eight people, including the deceased man and his wife, [entered the crosswalk against a red upraised hand (DON'T WALK) indicator](/rebuttals/walk_symbol.md)
 I wrote a "[blog post](/claims/blog_post.md)" that claimed I was "mourning" my bicycle helmet more than the man I "killed" | I didn't ever blog about anything—least of all, that; rather, six hours after receiving treatment for a concussion, taking painkillers, and speaking with the SFPD who told me that doctors expected the injured pedestrian to make a full recovery, I wrote a tongue-in-cheek [email](/rebuttals/blog_post.md) about helmet safety to my family, friends and cycling teammates that became more and more wildly-misinterpreted and chronologically-altered
-I was riding recklessly | No one driving a car would ever be called "reckless" for entering an intersection on a yellow signal in the high 20s or low 30s in a 25mph zone
-The pedestrians had a WALK symbol, according to multiple eyewitnesses | If my light was yellow, then the pedestrians crossed at least 3.5 seconds *before* their indicator turned to WALK because of the ["all red"](/rebuttals/all_red.md) phase; furthermore, the faster the prosecutors claim I was going, the more blatantly the pedestrians violated my right of way
 Because I used Strava, a popular fitness tracking program, a [local blogger](https://sfcitizen.com/blog/2012/04/06/did-strava-com-help-kill-pedestrian-sutchi-hui-whats-your-time-on-the-castro-street-descent-aka-castro-street-bomb/), assumed I was racing at the time of the accident | Using Strava to record all my rides does not mean that I was racing that day or that I ever engage in real or imaginary races while riding on crowded city streets; rather, it means I like data
-I ran multiple red lights and stop signs leading up to the crash, according to one eyewitness | The witness report, which surfaced more than a week after the accident, sounded spurious, but I had no way to disprove it
-I rode a brakeless fixed-gear bicycle (or "fixie") | The police report contained several photos of the bike, held in their custody, which had drop bars and brifters, 18 gears (2x9), a freewheel and fully-functioning front and rear brakes
-I was riding recklessly | No one driving a car would ever be called "reckless" for entering an intersection on a yellow signal in the high 20s or low 30s in a 25mph zone
-I hit the pedestrian "dead-on," I was "hunched down," and there was "never a moment" where I was "trying to slow down." | I knew I had braked hard and swerved, and thought I had tried to crash my bike to avoid pedestrians, but again, had no way to prove it
+I ran several red lights and stop signs leading up to the crash, according to one eyewitness | I did not—but had no way to prove it
+I rode a brakeless fixed-gear bicycle (or "fixie") | The police report contains several photos of the bike, which has drop bars and brifters, 18 gears (2x9), a freewheel and fully-functioning front and rear brakes
+I hit the pedestrian "dead-on," I was "hunched down" and that there was "never a moment" where I was "trying to slow down." | I knew I had braked hard and swerved, and thought I had tried to crash my bike to avoid pedestrians, but again, had no way to prove it
+The pedestrians had a WALK symbol, according to multiple eyewitnesses | If my light was yellow, then the pedestrians crossed at least 3.5 seconds *before* their indicator turned to WALK because of the ["all red"](/rebuttals/all_red.md) phase; furthermore, the faster the prosecutors claim I was going, the more blatantly the pedestrians violated my right of way
+I was riding recklessly | No one driving a car would ever be called "reckless" or said to have a "[need for speed](https://www.bloomberg.com/news/articles/2013-03-07/san-francisco-cyclist-can-be-charged-with-felony-manslaughter)" for entering an intersection on a yellow signal in the high 20s or low 30s in a 25mph zone
+I hit the pedestrian "dead-on," I was "hunched down," and there was "never a moment" where I was "trying to slow down." | The video shows extreme braking, turning and other evasive actions
 [A tracker on Bucchere’s bike allegedly showed he was riding faster than 35 mph in a 25-mph zone](https://www.sfgate.com/bayarea/matier-ross/article/S-F-bicyclist-in-fatal-crash-may-face-felony-3507830.php) | There was no "tracker;" this estimate was based on Strava's wildly-inaccurate interpolation of GPS waypoints collected by my iPhone
-I gave statements to the police that didn't match the surveillance video, including saying "the crosswalk was filled with people coming from both directions" but "the video shows only three or four people in the crosswalk when the collision occurred." | I remembered at least twice as many, but had no way to prove it—at least, not yet
+I gave statements to the police that didn't match the surveillance video, including saying "the crosswalk was filled with people coming from both directions" but "the video shows only three or four people in the crosswalk when the collision occurred." | The [video clearly showed](/rebuttals/crowded_crosswalk.md) eight people (six walking west and two walking east) converging into my lane, which was 23-feet wide; the northbound lanes were occupied by a car (#1 lane) and a bus (#2 lane)
 The DA denied leaking information to the local press and/or blamed the SFPD | Dean Taylor, an inspector in the SFPD unit that investigated the accident, told me the DA's office stole the accident video from a locked filing cabinet and leaked false information about it to the local press, saying the DA's behavior was "not fair" and that the way they handled my case was "complete bullshit"
 
 More to come as the [podcast](http://bikelash.net) continues...
