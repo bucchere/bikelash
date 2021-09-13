@@ -1,6 +1,6 @@
 # Cyclists flaunt the rules of the road
 
-Bikelash, the public outrage directed at cyclists—not to be confused with [_Bikelash_](https://medium.com/bikelash), the podcast—is a very real danger to cyclists of all types. Whether driven by anger/road-rage, fear, or something else entirely, most people, especially here in the San Francisco Bay Area, really despise cyclists.
+Bikelash—the public outrage directed at cyclists—is a very real danger to everyone who rides a bicycle. Whether driven by anger/road-rage, fear, or something else entirely, most people, especially here in the San Francisco Bay Area, really despise cyclists.
 
 One explanation is that people feel cyclists get to use the road without being held accountable when they break the law.
 
