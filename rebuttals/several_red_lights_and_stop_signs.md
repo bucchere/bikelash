@@ -1,6 +1,6 @@
 # Mr. "Several Red Lights and Stop Signs" fabricated his entire testimony
 
-His account, which already defied the laws of motion, had us leapfrogging down the Castro Street hill, where somehow I overtook him twice(!), then also flew by him while he was stopped at the red light at Market Street.
+The story from [Nathan Pollak](https://www.linkedin.com/in/natepollak), which already defied the laws of motion, had us leapfrogging down the Castro Street hill, where somehow I overtook him twice(!), then also flew by him a third time while he was stopped at the red light at Market Street.
 
 The clock in the video shows his car approching the north end of the accident and stopping at around 8:02:47. The accident took place at approximately 8:02:17, which disproved everything he said.
 
