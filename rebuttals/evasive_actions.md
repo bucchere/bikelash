@@ -4,10 +4,10 @@ My last memory of the accident is as follows: The left side of my body and head 
 
 It does look, however, like I gave it a try. Looking closely at the last four frames before impact (as seen below in chronological order), shows that I made at least two evasive maneuvers to supplement the hard braking I described above.
 
-<img src=/assets/images/castro_market_video_evasive_action_1.png"/>
-<img src=/assets/images/castro_market_video_evasive_action_2.png"/>
-<img src=/assets/images/castro_market_video_evasive_action_3.png"/>
-<img src=/assets/images/castro_market_video_evasive_action_4.png"/>
+<img src="/assets/images/castro_market_video_evasive_action_1.png"/>
+<img src="/assets/images/castro_market_video_evasive_action_2.png"/>
+<img src="/assets/images/castro_market_video_evasive_action_3.png"/>
+<img src="/assets/images/castro_market_video_evasive_action_4.png"/>
 
 In the first frame, my bike has an even keel, indicating that I’m going straight. In the second frame, more of my black arm-warmer is showing, indicating that I’m turning to the right, most likely because I had seen the tall woman who crossed from the east and was now walking briskly on a collision course with me. The third frame is perhaps the most telling. In this frame, my body and bike lean sharply to the left, perhaps because I had seen that trying to avoid the tall woman from the east put me on a different collision course, this time with the Huis. This was the last move I remember—sending myself and my bike into the pavement—“laying it down.”
 
