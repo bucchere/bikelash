@@ -11,5 +11,3 @@ This strongly implies that pedestrians started crossing right as I first entered
 2. The pedestrians waited for the WALK and I ran the red by 3.5 seconds.
 
 In light of this, I had a strong suspicion that a group of pedestrians closing in from both sides had caused this accident, despite everything in the media to the contrary, most of which was coming directly from the leaky DA's office or the SFPD.
-
-More to come as the [podcast](http://bikelash.net) continues...
