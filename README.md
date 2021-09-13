@@ -28,7 +28,7 @@ Through a series of leaks and press releases, George Gascón, San Francisco's Di
 
 However, during discovery, I found a traffic light in the prosecutor's own evidence, a video from a bar surveillance camera that captured the accident in its entirety. This traffic light showed that the prosecutors had the case completely backwards.
 
-The story of how I ended up a convicted felon despite this is the subject of [_Bikelash_](http://bikelash.net), a ten-week podcast and blog serial.
+The story of how I ended up a convicted felon despite this is the subject of my 2018 book, [_Bikelash_](http://bikelash.net).
 
 ## Objective
 I've created this project to provide a permanent record of the media narrative juxtaposed by the facts of my case, many of which I culled directly from the records of court proceedings. Anyone is welcome to join me and participate in this collaborative forum. My goal here is not to change minds or win hearts. On the contrary, my objective is to show how Trial by Media can run contrary to the facts of a case to produce outcomes in which justice is not served.
@@ -60,5 +60,3 @@ I ran several red lights and stop signs leading up to the crash, according to on
 | I gave statements to the police that didn't match the surveillance video, including saying "the crosswalk was filled with people coming from both directions" but "the video shows only three or four people in the crosswalk when the collision occurred." | The [video clearly showed](/rebuttals/crowded_crosswalk.md) eight people (six walking west and two walking east) converging into my lane, which was 23-feet wide; the northbound lanes were occupied by a car (#1 lane) and a bus (#2 lane) |
 | Had I been in a car, I would have been punished similarly (or worse) | "The pattern in [pedestrian accidents] is that drivers typically face [no legal consequences](https://sf.streetsblog.org/2012/06/20/in-sf-victims-of-traffic-violence-dont-have-equal-protection/) unless they were drunk or fled the scene." |
 | The DA denied leaking information to the local press and/or blamed the SFPD | Dean Taylor, an inspector in the SFPD unit that investigated the accident, told me the DA's office stole the accident video from a locked filing cabinet and leaked false information about it to the local press, saying the DA's behavior was "not fair" and that the way they handled my case was "complete bullshit." More proof of the DA's leaks came when privileged information about the 3.5 second "all red" turned up in the [newspaper](https://www.sfgate.com/bayarea/matier-ross/article/Oakland-cost-for-star-officer-250-000-4171619.php) before that information came before the court. |
-
-More to come as the [podcast](http://bikelash.net) continues...
